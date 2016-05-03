@@ -1,0 +1,17 @@
+
+body {
+    background-color: #D3FFCE;
+}
+
+
+.chatbox{
+    list-style: none;
+}
+.user{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+#fix{
+    width: 15%;
+}
